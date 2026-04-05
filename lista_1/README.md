@@ -1,12 +1,14 @@
-# LISTA - 1
+# Lista 1
 
-    - [exercicio 1](./exercicio_1.c)
-    - [exercicio 2](./exercicio_1.c)
-    - [exercicio 3](./exercicio_1.c)
-    - [exercicio 4](./exercicio_1.c)
-    - [exercicio 5](./exercicio_1.c)
-    - [exercicio 6](./exercicio_1.c)
-    - [exercicio 7](./exercicio_1.c)
-    - [exercicio 8](./exercicio_1.c)
-    - [exercicio 9](./exercicio_1.c)
-    - [exercicio 10](./exercicio_1.c)
+## Exercícios
+
+- [exercicio_1](./exercicio_1.c)
+- [exercicio_2](./exercicio_2.c)
+- [exercicio_3](./exercicio_3.c)
+- [exercicio_4](./exercicio_4.c)
+- [exercicio_5](./exercicio_5.c)
+- [exercicio_6](./exercicio_6.c)
+- [exercicio_7](./exercicio_7.c)
+- [exercicio_8](./exercicio_8.c)
+- [exercicio_9](./exercicio_9.c)
+- [exercicio_10](./exercicio_10.c)
