@@ -1,0 +1,15 @@
+cmake_minimum_required(VERSION 4.2)
+project(algoritmos_exercicios C)
+
+set(CMAKE_C_STANDARD 99)
+
+add_executable(exercicio_1.2 lista_2/exercicio_1.2.c)
+add_executable(exercicio_2.2 lista_2/exercicio_2.2.c)
+add_executable(exercicio_3.2 lista_2/exercicio_3.2.c)
+add_executable(exercicio_4.2 lista_2/exercicio_4.2.c)
+add_executable(exercicio_5.2 lista_2/exercicio_5.2.c)
+add_executable(exercicio_6.2 lista_2/exercicio_6.2.c)
+add_executable(exercicio_7.2 lista_2/exercicio_7.2.c)
+add_executable(exercicio_8.2 lista_2/exercicio_8.2.c)
+add_executable(exercicio_9.2 lista_2/exercicio_9.2.c)
+add_executable(exercicio_10.2 lista_2/exercicio_10.2.c)
