@@ -12,3 +12,6 @@
 - [exercicio_8](./exercicio_8.4.c)
 - [exercicio_9](./exercicio_9.4.c)
 - [exercicio_10](./exercicio_10.4.c)
+- [exercicio_11](./exercicio_11.4.c)
+- [exercicio_12](./exercicio_12.4.c)
+- [exercicio_13](./exercicio_13.4.c)
